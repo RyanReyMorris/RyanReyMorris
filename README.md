@@ -41,11 +41,9 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 
 ### 📈 My GitHub Vibes
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanReyMorris&theme=dracula" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReyMorris&layout=compact&theme=dracula" alt="Top Languages"/>
 
-</p>
 
 ---
 
