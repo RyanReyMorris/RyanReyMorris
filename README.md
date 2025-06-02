@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuWXjQIxYnBu/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDViZ2lqcHIwenlqZHFtejV3ZWFkMzFqb3plcjRhcjJpN2hxbWk1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="1400"/>
 </p>
 
 ---
@@ -38,9 +38,9 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 ### 📈 My GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egor-iakimov&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egor-iakimov&theme=dracula" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egor-iakimov&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanReyMorris&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanReyMorris&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReyMorris&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 ---
