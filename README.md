@@ -47,14 +47,14 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 
 ### 🌟 Cool Stuff I’ve Built
 
-- **[Metrics Tracking System](https://github.com/egor-iakimov/metrics-tracking-system)**  
-  Real-time monitoring with Prometheus & Grafana—because who doesn’t love pretty dashboards?
+- **[Corporate License Generator](https://github.com/RyanReyMorris/license-generator-v2)**  
+   Java/Angular app for generating corporate licenses.
 
-- **[Web Client MVP](https://github.com/egor-iakimov/web-client-mvp)**  
-  Angular-powered MVP that got feedback rolling 40% faster.
+- **[Instagram sales bot](https://github.com/RyanReyMorris/instagram-sales-bot)**  
+  A bot for sending messages to Instagram users and exporting traffic to Telegram.
 
-- **[Microservices Magic](https://github.com/egor-iakimov/microservices-architecture)**  
-  Java, Spring Boot, and Kafka—scaled requests per second like a boss.
+- **[Portfolio template](https://github.com/RyanReyMorris/portfolio)**  
+  Just cool portfolio landing page, fork it!
 
 ---
 
@@ -62,8 +62,8 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 
 <p align="center">
   <a href="https://linkedin.com/in/egor-iakimov"><img src="https://img.shields.io/badge/LinkedIn-Let’s%20Chat-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/egor-iakimov"><img src="https://img.shields.io/badge/GitHub-Check%20it%20Out-black?style=social&logo=github" alt="GitHub"/></a>
-  <a href="mailto:egor.iakimov@example.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=social&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/RyanReyMorris"><img src="https://img.shields.io/badge/GitHub-Check%20it%20Out-black?style=social&logo=github" alt="GitHub"/></a>
+  <a href="mailto:ryanreymorris@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=social&logo=gmail" alt="Email"/></a>
   <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-Grab%20It-green?style=social&logo=pdf" alt="Resume"/></a>
 </p>
 
