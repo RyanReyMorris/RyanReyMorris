@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDViZ2lqcHIwenlqZHFtejV3ZWFkMzFqb3plcjRhcjJpN2hxbWk1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="1400"/>
-</p>
-
----
 
 <h1 align="center">Hey there, I’m Egor Iakimov! 👋</h1>
 <p align="center"><strong>Java Software Engineer | Backend Wizard | Microservices Enthusiast</strong></p>
 
 <p align="center">
-  <a href="https://github.com/egor-iakimov"><img src="https://img.shields.io/github/followers/egor-iakimov?label=Follow&style=social" alt="GitHub Followers"/></a>
+  <a href="https://github.com/RyanReyMorris"><img src="https://img.shields.io/badge/GitHub-Check%20it%20Out-black?style=social&logo=github" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/egor-iakimov"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:egor.iakimov@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=social&logo=gmail" alt="Email"/></a>
+  <a href="mailto:ryanreymorris@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=social&logo=gmail" alt="Email"/></a>
+  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-Grab%20It-green?style=social&logo=pdf" alt="Resume"/></a>
 </p>
 
 ---
@@ -18,6 +14,14 @@
 ### 🚀 Who Am I?
 
 Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems and solving tricky problems. I’ve got a knack for backend development, microservices, and making things run faster than Usain Bolt. When I’m not coding, you might find me sipping coffee or debugging life’s mysteries.
+
+---
+
+### 📢 Visitor count
+
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 ---
 
@@ -40,8 +44,10 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyanReyMorris&show_icons=true&theme=dracula" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanReyMorris&theme=dracula" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReyMorris&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReyMorris&layout=compact&theme=dracula" alt="Top Languages"/>
+  </p>
 
 ---
 
@@ -56,16 +62,6 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 - **[Portfolio template](https://github.com/RyanReyMorris/portfolio)**  
   Just cool portfolio landing page, fork it!
 
----
-
-### 📬 Let’s Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/egor-iakimov"><img src="https://img.shields.io/badge/LinkedIn-Let’s%20Chat-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/RyanReyMorris"><img src="https://img.shields.io/badge/GitHub-Check%20it%20Out-black?style=social&logo=github" alt="GitHub"/></a>
-  <a href="mailto:ryanreymorris@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=social&logo=gmail" alt="Email"/></a>
-  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-Grab%20It-green?style=social&logo=pdf" alt="Resume"/></a>
-</p>
 
 ---
 
